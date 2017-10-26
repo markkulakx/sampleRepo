@@ -1,1 +1,1 @@
-text text text, DEFECT BRANCH and more text
+text text text, DEFECT CRITICAL ISSUE BRANCH and more text
